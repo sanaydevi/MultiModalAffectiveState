@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-STEPS TO RUN:
+#STEPS TO RUN:
 1. Clone Entire Project
 2. Please download CNN.zip file from this link:  https://drive.google.com/open?id=16ZEhKPQ4KGGmxY_iwQLoIo5U3f_2-tcz
 It contains all dependencies for python and the python interpreter. 
@@ -18,7 +18,7 @@ directory="/Users/sanaydevi/Desktop/final2/FinalAIHCI/project-05/faceEmotions/re
 
 _____________________________________________________________________________________________________
 
-Project-04: POINTS TO CONSIDER
+#Project-04: POINTS TO CONSIDER
 1. IMPROVED SERVER SIDE UI: /res/serverUIFinal.png
 2. DATA GENERATED FROM ONE SERVER AND PLOTTED
 3. THE X-AXIS WAS TAKEN AS PLEASURE AND Y-AXIS AS AROUSAL, WE TRANSFORMED THE PIXEL COORDINATES TO GRAPH COORDINATES
@@ -33,4 +33,4 @@ USING A FORMULA. THE LINES YOU SEE ARE PLOTTED POINTS ON A GRAPH, WE REMOVED THE
 
 _____________________________________________________________________________________________________________
 
-Video to watch the simulator: https://drive.google.com/file/d/1kyZP58XFZNACxj1QXng_XCSonJcv71W9/view
+#Video to watch the simulator: https://drive.google.com/file/d/1kyZP58XFZNACxj1QXng_XCSonJcv71W9/view
